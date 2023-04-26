@@ -1,5 +1,5 @@
 0x16. C - Simple Shell
-
+By Theodora and Jayson.
 Tasks
 0. Betty would be proud
 mandatory
