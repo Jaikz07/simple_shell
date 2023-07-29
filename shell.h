@@ -10,6 +10,10 @@
 #include <sys/wait.h>
 #include <sys/stat.h>
 #include <time.h>
+#include <limits.h>
+#include <fcntl.h>
+#include <errno.h>
+
 #include <stdbool.h>
 
 /* environment variables */
